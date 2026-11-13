@@ -1,4 +1,4 @@
-const CACHE = 'count-cache-v01';
+const CACHE = 'count-cache-v02';
 const CACHE_PREFIX = 'count-cache-';
 
 const ASSETS = [
